@@ -1,0 +1,7 @@
+{
+map	            "nef00xmas"
+longname	    "Christmas Edition of the Internef map"
+bots	        "tony penguin sarge grism grunt assassin skelebot"
+fraglimit	    30
+type	        "ffa"
+}

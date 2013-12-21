@@ -1,0 +1,7 @@
+{
+map	            "nef00"
+longname	    "First Test of NEF level 0-2"
+bots	        "tony penguin sarge grism grunt assassin skelebot"
+fraglimit	    30
+type	        "ffa"
+}

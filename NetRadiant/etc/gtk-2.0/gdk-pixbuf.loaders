@@ -1,0 +1,10 @@
+# GdkPixbuf Image Loader Modules file
+#
+#
+
+"libgdk-win32-2.0-0-pixbufloader-bmp.dll"
+"bmp" 5 "gtk20" "The BMP image format"
+"image/bmp" "image/x-bmp" "image/x-MS-bmp" ""
+"bmp" ""
+"BM" "" 100
+
